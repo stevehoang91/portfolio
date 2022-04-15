@@ -40,7 +40,7 @@ function Projects() {
               title="Read Easy"
               tools="React | GSAP | HTML | CSS"
               description="A Hackaton challenge with a goal to produce an interactive app to help children learn to read. We were given 7 hours to complete the challenge. Working on desktop only."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              link="https://read-easy.stevenhoang.co.uk/"
             />
           </Col>
 
@@ -51,7 +51,7 @@ function Projects() {
               title="WEATHER-BOT-3000"
               tools="Vanilla Javascript"
               description="A weather forecast app that returns weather forecast based on both location permissions and user-inputted location."
-              link="https://github.com/soumyajit4419/Editor.io"
+              link="https://weather-bot-3000.stevenhoang.co.uk/"
             />
           </Col>
 
@@ -62,7 +62,7 @@ function Projects() {
               title="NOWNESS homage"
               tools="HTML | CSS"
               description="Replica website of the NOWNESS built using HTML and CSS to showcase my ability to build and implement a design to a professional standard."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              link="https://nowness.stevenhoang.co.uk/"
             />
           </Col>
 
@@ -73,20 +73,9 @@ function Projects() {
               title="SVG Challenge | A New Cohort"
               tools="SVG | CSS"
               description="After our first week of coding bootcamp, we had a challenge to create a small animation using SVG and keyframe animations. My submission won the contest!"
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              link="https://a-new-cohort.stevenhoang.co.uk/"
             />
           </Col>
-          {/* 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-            />
-          </Col> */}
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
