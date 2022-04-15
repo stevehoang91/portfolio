@@ -7,11 +7,7 @@ import readEasy from "../../Assets/Projects/read-easy.png";
 import nowness from "../../Assets/Projects/nowness.png";
 import aNewCohort from "../../Assets/Projects/a-new-cohort.png";
 import findSparks from "../../Assets/Projects/find-sparks.jpg";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-} from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Projects() {
@@ -33,7 +29,7 @@ function Projects() {
               title="Find Sparks"
               tools="React | Node | SQL | Bootstrap"
               description="A dating app created to solve one of lifes' biggest challenge in finding love. Created together with 3 members of my bootcamp."
-              link="https://github.com/soumyajit4419/Chatify"
+              link="https://findsparks.uk/"
             />
           </Col>
 
@@ -43,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Read Easy"
               tools="React | GSAP | HTML | CSS"
-              description="A Hackaton challenge with a goal to produce an interactive app to help children learn to read. We were given 7 hours to complete the challenge."
+              description="A Hackaton challenge with a goal to produce an interactive app to help children learn to read. We were given 7 hours to complete the challenge. Working on desktop only."
               link="https://github.com/soumyajit4419/Bits-0f-C0de"
             />
           </Col>
