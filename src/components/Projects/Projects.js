@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import weatherBot3000 from "../../Assets/Projects/weather-bot-3000.png";
 import readEasy from "../../Assets/Projects/read-easy.png";
-import nowness from "../../Assets/Projects/nowness.png";
+import nowness from "../../Assets/Projects/nowness.jpg";
 import aNewCohort from "../../Assets/Projects/a-new-cohort.png";
 import findSparks from "../../Assets/Projects/find-sparks.jpg";
 import { AiFillGithub } from "react-icons/ai";

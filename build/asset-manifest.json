@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d886a14c.css",
+    "main.js": "/static/js/main.cd6a35bd.js",
+    "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
+    "static/media/weather-bot-3000.png": "/static/media/weather-bot-3000.3efb8e4e7474be355122.png",
+    "static/media/a-new-cohort.png": "/static/media/a-new-cohort.45995e9fa85ed9d77254.png",
+    "static/media/find-sparks.jpg": "/static/media/find-sparks.f63bc2ad4c9bffcea186.jpg",
+    "static/media/nowness.jpg": "/static/media/nowness.13d7176d8394fd550a07.jpg",
+    "static/media/read-easy.png": "/static/media/read-easy.42e120b35837583dbc65.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.20caf66292a2da38a40b.jpg",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.53cbdad696442b0642b9.pdf",
+    "static/media/avatar.svg": "/static/media/avatar.f3443db1f05435c90cd0f4b5af30bcde.svg",
+    "static/media/home-main.svg": "/static/media/home-main.875eeb4916baea23b53bef6937b4139d.svg",
+    "static/media/pre.svg": "/static/media/pre.57c696ae5eec9c7b91d0.svg",
+    "index.html": "/index.html",
+    "main.d886a14c.css.map": "/static/css/main.d886a14c.css.map",
+    "main.cd6a35bd.js.map": "/static/js/main.cd6a35bd.js.map",
+    "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d886a14c.css",
+    "static/js/main.cd6a35bd.js"
+  ]
+}
