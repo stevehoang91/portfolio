@@ -27,8 +27,8 @@ function Projects() {
               imgPath={findSparks}
               isBlog={false}
               title="Find Sparks"
-              tools="React | Node | SQL | Bootstrap"
-              description="A dating app created to solve one of lifes' biggest challenge in finding love. Created together with 3 members of my bootcamp."
+              tools="React | Node.js | SQL | Bootstrap | Redux"
+              description="A full stack dating app created to solve one of lifes' biggest challenge in finding love. Features registration / log in functionality, matching algorithm and messaging feature. Created together in a team of 4."
               link="https://findsparks.uk/"
             />
           </Col>
@@ -39,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Read Easy"
               tools="React | GSAP | HTML | CSS"
-              description="A Hackaton challenge with a goal to produce an interactive app to help children learn to read. We were given 7 hours to complete the challenge. Working on desktop only."
+              description="A Hackaton challenge with a goal to produce an interactive app to help children learn to read. Working in a team, we were given 7 hours to complete the challenge. Features text-to-speech functionality."
               link="https://read-easy.stevenhoang.co.uk/"
             />
           </Col>
@@ -49,8 +49,8 @@ function Projects() {
               imgPath={weatherBot3000}
               isBlog={false}
               title="WEATHER-BOT-3000"
-              tools="Vanilla Javascript"
-              description="A weather forecast app that returns weather forecast based on both location permissions and user-inputted location."
+              tools="Vanilla Javascript | DOM manipulation"
+              description="A weather forecast app that returns weather forecast based on both user geo-location and user-inputted location. Features regex validation on user input."
               link="https://weather-bot-3000.stevenhoang.co.uk/"
             />
           </Col>
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={nowness}
               isBlog={false}
               title="NOWNESS homage"
-              tools="HTML | CSS"
+              tools="HTML | CSS | SASS"
               description="Replica website of the NOWNESS built using HTML and CSS to showcase my ability to build and implement a design to a professional standard."
               link="https://nowness.stevenhoang.co.uk/"
             />
@@ -72,7 +72,7 @@ function Projects() {
               isBlog={false}
               title="SVG Challenge | A New Cohort"
               tools="SVG | CSS"
-              description="After our first week of coding bootcamp, we had a challenge to create a small animation using SVG and keyframe animations. My submission won the contest!"
+              description="After our first week of coding bootcamp, we had a challenge to create an animation using SVG and keyframe animations. My submission won the contest!"
               link="https://a-new-cohort.stevenhoang.co.uk/"
             />
           </Col>
@@ -94,16 +94,6 @@ function Projects() {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* <li className="social-icons">
-                <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li> */}
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/steven-hoang-55372a67/"
@@ -114,16 +104,6 @@ function Projects() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              {/* <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li> */}
             </ul>
           </Col>
         </Row>

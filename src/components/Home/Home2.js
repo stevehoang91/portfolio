@@ -15,7 +15,7 @@ function Home2() {
               improvement.
             </p>
             <p className="home-about-body text-center">
-              After 10 years working in analytical roles and the fashion
+              After 10 years working in digital analytical roles and the fashion
               industry, I decided to take a career change to pursue a goal of
               becoming a software engineer.
             </p>

@@ -294,6 +294,12 @@ button:focus {
   color: #008724 !important;
 }
 
+@media (max-width: 500px) {
+  .home-content {
+    padding: 0rem 0 2rem !important;
+  }
+}
+
 @media (max-width: 767px) {
   .Typewriter__wrapper {
     font-size: 1.4em !important;
