@@ -18,9 +18,6 @@ function Projects() {
         <h1 className="project-heading">
           My Recent <strong className="purple">Projects </strong>
         </h1>
-        <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
-        </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
@@ -72,7 +69,7 @@ function Projects() {
               isBlog={false}
               title="SVG Challenge | A New Cohort"
               tools="SVG | CSS"
-              description="After our first week of coding bootcamp, we had a challenge to create an animation using SVG and keyframe animations. My submission won the contest!"
+              description="My winning submission for the SVG challenge after our first week of coding bootcamp. The challenge was to create an animation using SVG and keyframe animations."
               link="https://a-new-cohort.stevenhoang.co.uk/"
             />
           </Col>
@@ -80,9 +77,6 @@ function Projects() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a

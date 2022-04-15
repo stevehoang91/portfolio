@@ -10,9 +10,7 @@ function ProjectCards(props) {
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text style={{ textAlign: "center" }}>{props.tools}</Card.Text>
-        <Card.Text style={{ textAlign: "justify" }}>
-          {props.description}
-        </Card.Text>
+        <Card.Text style={{ textAlign: "left" }}>{props.description}</Card.Text>
         <Button variant="primary" href={props.link} target="_blank">
           <BiLinkExternal /> &nbsp;
           {props.isBlog ? "View Blog" : "View Project"}
