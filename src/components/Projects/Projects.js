@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               title="Read Easy"
               tools="React | GSAP | HTML | CSS"
-              description="A Hackaton challenge with a goal to produce an interactive app to help children learn to read. Working in a team, we were given 7 hours to complete the challenge. Features text-to-speech functionality."
+              description="A Hackathon challenge with a goal to produce an interactive app to help children learn to read. Working in a team, we were given 7 hours to complete the challenge. Features text-to-speech functionality."
               link="https://read-easy.stevenhoang.co.uk/"
             />
           </Col>
