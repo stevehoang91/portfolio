@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
-import Type from "./Type";
+// import Type from "./Type";
 import Projects from "../Projects/Projects";
 
 function Home() {
@@ -20,16 +20,18 @@ function Home() {
                   👋🏼
                 </span>
               </h1>
-
+              <h2 className="heading-skills">
+                React | Node.js | Javascript | CSS 3 | HTML5
+              </h2>
               <h1 className="heading-name">
                 My name is
                 <strong className="main-name"> Steven Hoang</strong>
-                <p> and I am actively seeking a role as a Junior</p>
+                <p> and I am a Junior Web Developer</p>
               </h1>
 
-              <div style={{ padding: 50, textAlign: "left" }}>
+              {/* <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
-              </div>
+              </div> */}
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>

@@ -7,6 +7,7 @@ import readEasy from "../../Assets/Projects/read-easy.png";
 import nowness from "../../Assets/Projects/nowness.jpg";
 import aNewCohort from "../../Assets/Projects/a-new-cohort.png";
 import findSparks from "../../Assets/Projects/find-sparks.jpg";
+import simpsons from "../../Assets/Projects/simpsons.jpg";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -18,6 +19,9 @@ function Projects() {
         <h1 className="project-heading">
           My Recent <strong className="purple">Projects </strong>
         </h1>
+        <p className="gitText">
+          Links to git repositories avaiable upon request
+        </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
@@ -25,8 +29,8 @@ function Projects() {
               isBlog={false}
               title="Find Sparks"
               tools="React | Node.js | SQL | Bootstrap | Redux"
-              description="A full stack dating app created to solve one of lifes' biggest challenge in finding love. Features registration / log in functionality, matching algorithm and messaging feature. Created together in a team of 4."
-              link="https://findsparks.uk/"
+              description="A full stack dating app created to solve one of lifes' biggest challenge in finding love. Features multi-user log-in authentication and an unique points based matching algorithm. Created in a team of four."
+              link="https://find-sparks.stevenhoang.co.uk/"
             />
           </Col>
 
@@ -38,6 +42,17 @@ function Projects() {
               tools="React | GSAP | HTML | CSS"
               description="A Hackathon challenge with a goal to produce an interactive app to help children learn to read. Working in a team, we were given 7 hours to complete the challenge. Features text-to-speech functionality."
               link="https://read-easy.stevenhoang.co.uk/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={simpsons}
+              isBlog={false}
+              title="Simpsons Quote Generator"
+              tools="React (classed based) | CSS"
+              description="A fun exercise to demostrate using class components in React with prop drilling and state lifting. Implementation of Joi validation on user input, usage of ES6 syntax and axios for API requests."
+              link="https://simpsons.stevenhoang.co.uk/"
             />
           </Col>
 

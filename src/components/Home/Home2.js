@@ -23,9 +23,6 @@ function Home2() {
               I am motivated in solving real-world challenges using technical
               solutions.
             </p>
-            <p className="home-about-body text-center">
-              React | Node.js | Javascript | CSS 3 | HTML5
-            </p>
           </Col>
           <Col md={4} className="myAvtar">
             <img src={myImg} className="img-fluid" alt="avatar" />

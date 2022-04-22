@@ -280,6 +280,12 @@ button:focus {
   padding-left: 45px !important;
 }
 
+.heading-skills {
+  font-size: 2em !important;
+  padding-left: 45px !important;
+  padding-bottom: 10px;
+}
+
 .main-name {
   color: #008724;
 }
@@ -476,6 +482,13 @@ button:focus {
   transform: scale(1.02) !important;
   overflow: hidden !important;
   box-shadow: 0 4px 4px 5px #008724 !important;
+}
+
+.gitText {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 0.8em;
+  color: white;
 }
 
 .blog-card {
