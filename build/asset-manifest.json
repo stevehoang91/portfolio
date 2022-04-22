@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f29b9fa2.css",
-    "main.js": "/static/js/main.2f6a1578.js",
+    "main.js": "/static/js/main.2cc4040b.js",
     "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
     "static/media/weather-bot-3000.png": "/static/media/weather-bot-3000.3efb8e4e7474be355122.png",
     "static/media/a-new-cohort.png": "/static/media/a-new-cohort.45995e9fa85ed9d77254.png",
@@ -9,6 +9,7 @@
     "static/media/nowness.jpg": "/static/media/nowness.13d7176d8394fd550a07.jpg",
     "static/media/read-easy.png": "/static/media/read-easy.42e120b35837583dbc65.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.20caf66292a2da38a40b.jpg",
+    "static/media/three-floor.jpg": "/static/media/three-floor.1539379b3edba21ca0df.jpg",
     "static/media/simpsons.jpg": "/static/media/simpsons.6add4b2ceabdf94c8daf.jpg",
     "static/media/Steven-Hoang-CV.pdf": "/static/media/Steven-Hoang-CV.fa63e37ea5cb80e9aee3.pdf",
     "static/media/avatar.svg": "/static/media/avatar.f3443db1f05435c90cd0f4b5af30bcde.svg",
@@ -16,11 +17,11 @@
     "static/media/pre.svg": "/static/media/pre.57c696ae5eec9c7b91d0.svg",
     "index.html": "/index.html",
     "main.f29b9fa2.css.map": "/static/css/main.f29b9fa2.css.map",
-    "main.2f6a1578.js.map": "/static/js/main.2f6a1578.js.map",
+    "main.2cc4040b.js.map": "/static/js/main.2cc4040b.js.map",
     "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f29b9fa2.css",
-    "static/js/main.2f6a1578.js"
+    "static/js/main.2cc4040b.js"
   ]
 }

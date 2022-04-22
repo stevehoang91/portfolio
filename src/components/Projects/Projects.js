@@ -8,6 +8,7 @@ import nowness from "../../Assets/Projects/nowness.jpg";
 import aNewCohort from "../../Assets/Projects/a-new-cohort.png";
 import findSparks from "../../Assets/Projects/find-sparks.jpg";
 import simpsons from "../../Assets/Projects/simpsons.jpg";
+import threefloor from "../../Assets/Projects/three-floor.jpg";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -23,6 +24,16 @@ function Projects() {
           Links to git repositories avaiable upon request
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={threefloor}
+              isBlog={false}
+              title="Three Floor"
+              tools="React | SCSS | Bootstrap"
+              description="A work-in-progress to celebrate the highlights and memories of my family's fashion brand, Three Floor. Link to be added soon."
+              link="https://www.instagram.com/threefloor/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={findSparks}
