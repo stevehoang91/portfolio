@@ -30,8 +30,8 @@ function Projects() {
               isBlog={false}
               title="Three Floor"
               tools="React | SCSS | Bootstrap"
-              description="A work-in-progress to celebrate the highlights and memories of my family's fashion brand, Three Floor. Link to be added soon."
-              link="https://www.instagram.com/threefloor/"
+              description="A work-in-progress to celebrate the moments and memories of my family's fashion brand, Three Floor."
+              link="https://threefloor.stevenhoang.co.uk/"
             />
           </Col>
           <Col md={4} className="project-card">
